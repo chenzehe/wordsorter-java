@@ -1,5 +1,7 @@
 支持 http://ifeve.com/tao-code-match-1/ ，用fork-join来实现 <p />
 读取一个文件中的单词(使用BufferedReader按行读取)，排序(使用fork-join框架快速排序)，写到另一个文件中(使用BufferedWriter進行寫入)  <p />
+的的的机器硬件为：<br />
+CPU：(英特尔)Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz；内存：4.00 GB <p />
 运行平均速度为： <br />
 read file:78ms <br />
 sort:141ms <br />
